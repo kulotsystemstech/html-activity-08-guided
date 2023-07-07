@@ -1,0 +1,9 @@
+.idea
+.vscode
+.DS_Store
+/src/img/*
+!/src/img/discover-the-wonders-of-nature.jpg
+!/src/img/local-cuisines.jpg
+!/src/img/exciting-adventures.jpg
+!/src/img/cultural-experiences.jpg
+/src/index-final.html
