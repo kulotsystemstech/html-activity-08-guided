@@ -144,7 +144,7 @@ The <code>&lt;img/&gt;</code> tag is a self-closing tag, just like <code>&lt;br/
 In this project, all images are stored in the [**/src/img**](/src/img) folder.
 To use them, just create an `<img/>` tag with the `src` attribute pointing to one of those image files.
 
-In this section, we will use [**/src/img/discover-the-wonders-of-nature.jpg**](img/discover-the-wonders-of-nature.jpg).
+In this section, we will use [**img/discover-the-wonders-of-nature.jpg**](/src/img/discover-the-wonders-of-nature.jpg).
 
 ```html
                     ...
