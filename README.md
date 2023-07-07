@@ -174,6 +174,6 @@ and we included two additional attributes:
 
 ***TODO***:
 Complete this **Travel Blog Page** by defining these three remaining images:
-1. [**src/img/local-cuisines.jpg**](src/img/local-cuisines.jpg)
-2. [**src/img/exciting-adventures.jpg**](src/img/exciting-adventures.jpg)
-3. [**src/img/cultural-experiences.jpg**](src/img/cultural-experiences.jpg)
+1. [**img/local-cuisines.jpg**](src/img/local-cuisines.jpg)
+2. [**img/exciting-adventures.jpg**](src/img/exciting-adventures.jpg)
+3. [**img/cultural-experiences.jpg**](src/img/cultural-experiences.jpg)
