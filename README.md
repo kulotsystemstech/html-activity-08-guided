@@ -167,7 +167,6 @@ and we included two additional attributes:
 |-----------|------------------------------------------------------------------------------------------------------------------------------------|
 | `width`   | set to `"100%"` to make the image fill the full width of its containing element                                                    |
 | `alt`     | provides an "alternative text" for the image, aiding accessibility and describing the image's content for users who cannot see it. |
-|
 
 #### Indulge in Local Cuisines, Exciting Adventures, and Cultural Experiences
 
